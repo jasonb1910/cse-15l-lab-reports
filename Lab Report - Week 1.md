@@ -6,3 +6,4 @@ In this lab, we will learn and practice through all the steps below:
 * Moving Files with scp
 * Setting an SSH Key
 * Optimizing Remote Running
+
