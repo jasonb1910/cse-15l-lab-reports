@@ -92,6 +92,7 @@ The methods are called: getPath(), getQuery(), split(), equals(), add(), Stringf
 ![image](items-added.png)
 
 The methods are called: getPath(), equals(), Stringformat().
+
 `String.format("The item is added: %s", input)`  `equals("/")`
 
 ![image](found-item.png)
