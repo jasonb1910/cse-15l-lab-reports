@@ -67,17 +67,44 @@ This is what we have. Let's see how it work!
 
 ![image](host8000.png)
 
+The method is called: start().
+
+`Server.start(8000, new Handler())`
+
 ![image](hello.png)
+
+The methods are called: getPath(), getQuery(), split(), equals(), add(), String.format().
+
+`equals("/")`  `equals("/add")`  `getQuery().split("=")`  `equals("s")`   `String.format("Item added: %s", parameters[1])`
 
 ![image](world.png)
 
+The methods are called: getPath(), getQuery(), split(), equals(), add(), Stringformat().
+
+`equals("/")`  `equals("/add")`  `getQuery().split("=")`  `equals("s")`   `String.format("Item added: %s", parameters[1])`
+
 ![image](hellyeah.png)
+
+The methods are called: getPath(), getQuery(), split(), equals(), add(), Stringformat().
+
+`equals("/")`  `equals("/add")`  `getQuery().split("=")`  `equals("s")`   `String.format("Item added: %s", parameters[1])`
 
 ![image](items-added.png)
 
+The methods are called: getPath(), equals(), Stringformat().
+`String.format("The item is added: %s", input)`  `equals("/")`
+
 ![image](found-item.png)
 
+The methods are called: getPath(), getQuery(), split(), equals(), contains(), Stringformat().
+
+`String.format("Found item: %s", search)`  `equals("/search")`   `equals("s")`   `String.format("Item Not Found!")`
+
 ![image](404-not-found.png)
+
+The methods are called: getPath(), getQuery(), split(), equals(), contains(), Stringformat().
+
+
 
 # Find Bugs and Debug
 *"There are no bugs if you don't write any code"*.
