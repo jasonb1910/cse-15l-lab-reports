@@ -1,4 +1,4 @@
-# Lab Report 3 (Week 4)
+# Lab Report 3 (Week 5)
 
 In this lab, we will practice with `find` command and some command options of it.
 
