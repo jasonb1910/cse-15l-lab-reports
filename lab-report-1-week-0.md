@@ -5,3 +5,5 @@
 [**Lab report 1 - Week 1**](lab-report-week-1.md)
 
 [**Lab report 2 - Week 2+3**](lab-report-2.md)
+
+[**Lab report 3 - Week 4**](lab-report-3.md)
