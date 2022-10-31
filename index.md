@@ -4,5 +4,5 @@
 
 [**About Me**](https://github.com/jasonb1910)
 
-[**>>>CSE15L LAB REPORTS<<<**](lab-report-1-week-0.md)
+[**>>> {CSE15L - LAB REPORTS} <<<**](lab-report-1-week-0.md)
 
