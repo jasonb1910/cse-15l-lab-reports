@@ -71,7 +71,7 @@ However, there still exist some problems such as the remote server must have Vim
 ### Q&A
 1. Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
 
-*If we had to work on a program that we were running remotely, editing code by using Vim directly on the remote server will be our preferred, which is quicly and easier than the other style.
+*If we had to work on a program that we were running remotely, editing code by using Vim directly on the remote server will be our preferred, which is quicly and easier than the other style.*
 
 2. What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
 
