@@ -54,13 +54,31 @@ There are a lot of ways that we can use to edit this task. One of those is repre
 
 Following the edit task we chose, there are two ways that we can use for it:
 
-- [Option 1] Start in Visual Studio Code and make the edit there, then use `scp` coping the updated file to the remote server and run it on the remote.
-- [Option 2] Start directly on remote server and make the edit in Vim, then run it on the remote.
+- [***Option 1***] Start in Visual Studio Code and make the edit there, then use `scp` coping the updated file to the remote server and run it on the remote.
+- [***Option 2***] Start directly on remote server and make the edit in Vim, then run it on the remote.
 
 After timing the process from the beginning, we ended up with :
 
-| Option 1 | Option 2 |
+| **Option 1** | **Option 2** |
 | approx. 6 mins | approx. 5 mins |
+
+For the ***Option 1***, it took longer than because there were so many steps that need to be done between our local and remote machine, which can be affected by the internet speed for uploading files.
+
+For the ***Option 2***, we only worked on the remote server, which cost less time than when you have to back and forth between our local and remote machine.
+
+However, there still exist some problems such as the remote server must have Vim installed, and you know how to use Vim to edit the code directly in Terminal.
+
+### Q&A
+1. Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+
+*If we had to work on a program that we were running remotely, editing code by using Vim directly on the remote server will be our preferred, which is quicly and easier than the other style.
+
+2. What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
+
+*Depending on the complexity of the task or project, we can choose the appropriate way.*
+
+
+
 
 
 
