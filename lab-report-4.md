@@ -69,11 +69,11 @@ For the ***Option 2***, we only worked on the remote server, which cost less tim
 However, there still exist some problems such as the remote server must have Vim installed, and you know how to use Vim to edit the code directly in Terminal.
 
 ### Q&A
-1. Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+1) Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
 
 *If we had to work on a program that we were running remotely, editing code by using Vim directly on the remote server will be our preferred, which is quickly and easier than the other style.*
 
-2. What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
+2) What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
 
 *Depending on the complexity of the task or project, we can choose the appropriate way. By theoretically, working directly on remote server is easier and takes less time than working on VS Code,but in fact, if everything is set up ideally, working on the VS Code will be easier to manage and store.*
 
