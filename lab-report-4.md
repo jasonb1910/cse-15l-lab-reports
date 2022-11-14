@@ -14,7 +14,7 @@ From "week7-skill-demo" directory, we start to edit "DocSearchServer.java" in `v
 
 We use the command line `vim DocSerchServer.java<Enter>` to open file "DocSearchServer.java" in vim. 
 
-![image]()
+![image](Screenshot%202022-11-13%20at%205.02.44%20PM.png)
 
 Then, this is how the "DocSearchServer.java" looks like in vim.
 
