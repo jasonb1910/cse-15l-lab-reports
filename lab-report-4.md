@@ -60,7 +60,7 @@ Following the edit task we chose, there are two ways that we can use for it:
 After timing the process from the beginning, we ended up with :
 
 | **Option 1** | **Option 2** |
-| approx. 120 sec | approx. 85 sec |
+| approx. 65 sec | approx. 40 sec |
 
 For the ***Option 1***, it took longer than because there were so many steps that need to be done between our local and remote machine, which can be affected by the internet speed for uploading files.
 
