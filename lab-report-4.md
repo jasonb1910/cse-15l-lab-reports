@@ -48,7 +48,7 @@ After changing all the words "start" to "base", we use the command line `:wq<Ent
 
 There are a lot of ways that we can use to edit this task. One of those is represented above and we can come up with the sequence like this after all:
 
-`vim DocSearchServer.java<Enter>/start<Enter>cebase<Esc>n.n.n.:wq<Enter>`
+`vim DocSearchServer.java<Enter>/start<Enter>cebase<Esc>n.n.:wq<Enter>`
 
 ## Part 2
 
@@ -60,7 +60,7 @@ Following the edit task we chose, there are two ways that we can use for it:
 After timing the process from the beginning, we ended up with :
 
 | **Option 1** | **Option 2** |
-| approx. 6 mins | approx. 5 mins |
+| approx. 120 sec | approx. 85 sec |
 
 For the ***Option 1***, it took longer than because there were so many steps that need to be done between our local and remote machine, which can be affected by the internet speed for uploading files.
 
@@ -71,11 +71,11 @@ However, there still exist some problems such as the remote server must have Vim
 ### Q&A
 1. Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
 
-*If we had to work on a program that we were running remotely, editing code by using Vim directly on the remote server will be our preferred, which is quicly and easier than the other style.*
+*If we had to work on a program that we were running remotely, editing code by using Vim directly on the remote server will be our preferred, which is quickly and easier than the other style.*
 
 2. What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
 
-*Depending on the complexity of the task or project, we can choose the appropriate way.*
+*Depending on the complexity of the task or project, we can choose the appropriate way. By theoretically, working directly on remote server is easier and takes less time than working on VS Code,but in fact, if everything is set up ideally, working on the VS Code will be easier to manage and store.*
 
 
 
