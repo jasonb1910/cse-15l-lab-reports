@@ -2,9 +2,9 @@
 
 In this lab, we will write an automatic grader for the student's submissions below:
 
-- https://github.com/ucsd-cse15l-f22/list-methods-lab3
-- https://github.com/ucsd-cse15l-f22/list-methods-corrected
-- https://github.com/ucsd-cse15l-f22/list-methods-compile-error
+- [Student's Submission 1](https://github.com/ucsd-cse15l-f22/list-methods-lab3)
+- [Student's Submission 2](https://github.com/ucsd-cse15l-f22/list-methods-corrected)
+- [Student's Submission 3](https://github.com/ucsd-cse15l-f22/list-methods-compile-error)
 
 ## Grading Script
 
@@ -115,15 +115,15 @@ After testing and grading their scores, we will run it through a server by a pro
 
 This is the result we got so far:
 
-*Student's submission 1*
+*Student's Submission 1*
 ![image](lab-5-autograder-3.png)
-*Student's submission 2*
+*Student's Submission 2*
 ![image](lab-5-autograder-1.png)
-*Student's submission 3*
+*Student's Submission 3*
 ![image](lab-5-autograder-2.png)
 
 
-## Tracing the script of *Student's submission 3*
+## Tracing the script for *Student's Submission 3*
 
 `rm -rf student-submission` : remove *student-submission* (if existed) before doing git clone - exit code 0.
 
@@ -151,7 +151,7 @@ This is the result we got so far:
 
 Because the script exited after the last `if` statement above, which means the java files could not compile so it would print out *File cannot compile. Try again later!* and give score 0/100 at that step. All the command lines after the `if` statement will not run because the script stopped.
 
-Therefore, the final output for *Student's submission 3* will be: 
+Therefore, the final output for *Student's Submission 3* will be: 
 
 ```
 ListExamples.java exist!
